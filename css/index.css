@@ -146,7 +146,8 @@ section.mobile {
 
 /* Medias */
 @media (max-width: 700px) {
-  section.desktop .Text {
+  section.desktop .Text,
+  section.desktop #acceptJesus {
     width: 90%;
   }
 }
